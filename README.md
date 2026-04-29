@@ -1,2 +1,9 @@
-# basic-hangman-game-tool
-A simple hangman game project
+# Hangman Game
+
+A simple hangman game project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
